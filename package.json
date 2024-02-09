@@ -1,0 +1,19 @@
+{
+  "name": "data-structure-algorithm-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "config": {
+    "commitizen": {
+      "path": "git-cz"
+    }
+  },
+  "scripts": {
+    "commit": "git-cz"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "git-cz": "^4.9.0"
+  }
+}
