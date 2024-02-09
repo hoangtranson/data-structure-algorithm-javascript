@@ -9,11 +9,13 @@
     }
   },
   "scripts": {
-    "commit": "git-cz"
+    "commit": "git-cz",
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "git-cz": "^4.9.0"
+    "git-cz": "^4.9.0",
+    "jest": "^29.7.0"
   }
 }
